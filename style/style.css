@@ -107,3 +107,17 @@ p {
   transform: translateX(2px);
   transform: translateY(2px);
 }
+
+footer {
+  background-color: rgb(29 78 216);
+  color: white;
+  box-shadow: 2px 2px 0 black;
+}
+
+.footer-container {
+  max-width: 72rem;
+  margin: auto;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 0.875rem;
+}
